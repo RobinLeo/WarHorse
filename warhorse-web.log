@@ -1,0 +1,6 @@
+
+66575 [2012-06-03 13:49:12] -   [ip=, ref=, ua=, sid=]
+  WARN  c.r.w.b.web.ProductionController - ID:14 ProductionName:Mac Price:11111 detail:Good!!!!!!
+
+125428 [2012-06-03 13:50:11] -   [ip=, ref=, ua=, sid=]
+  WARN  c.r.w.b.web.ProductionController - ID:14 ProductionName:Mac Price:11111 detail:Good!!!!!!
